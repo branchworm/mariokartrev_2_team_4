@@ -28,6 +28,70 @@ Below the video link show some well-taken, appropriately sized images of the pro
 
 Give a brief bio for each team member and their broad contribution to the project (no need to be terribly specifc).
 
+**Blake Pickett:**
+
+• Project management
+
+• Power generation
+
+• Power distribution
+
+• Soldering
+
+• Wiring
+
+• Mechanical work
+
+• Spice simulation
+
+**Tyler Chittum:**
+
+• Soldering
+
+• KiCAD drafting
+
+• SPICE simulation
+
+• Electronics
+
+• Technical writing
+
+• Programming
+
+**Benjamin Reed:**
+
+• Python, C/C++, Java
+
+• RStudio, MATLAB
+
+• Soldering
+
+• Digital/embedded systems
+
+**Ray Durlin:**
+
+• Power generation
+
+• Project management
+
+• Power distribution
+
+• SPICE simulation
+
+**Sage Mooneyham:**
+
+• C/C++
+
+• Debugging
+
+• Digital/embedded systems
+
+• Signals
+
+• Electronics
+
+• Soldering
+
 ### Faculty Supervisor
 
 The faculty advisor for this project was Jesse Roberts.
